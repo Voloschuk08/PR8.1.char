@@ -1,0 +1,3 @@
+﻿  PR8.1.3.cpp
+D:\C\PR8.1.3\PR8.1.3\PR8.1.3.cpp(24,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  PR8.1.3.vcxproj -> D:\C\PR8.1.3\x64\Debug\PR8.1.3.exe
